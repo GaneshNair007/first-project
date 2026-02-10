@@ -1,4 +1,4 @@
-# 🫀 Heart Disease Risk Predictor (CLI)
+# 🫀 Heart Disease Risk Predictor (Streamlit App)
 
 A Python-based command-line tool that estimates the risk of heart disease based on patient health metrics.
 Designed to demonstrate **logical data processing** and **conditional algorithms** in Python.
